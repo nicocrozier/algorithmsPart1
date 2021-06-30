@@ -3,5 +3,5 @@ Princeton  Algorithms Part 1
 2021 with professor Sedgewick
 
 
-Documentation: https://algs4.cs.princeton.edu/code/javadoc/edu/princeton/cs/algs4/
+Documentation: https://algs4.cs.princeton.edu/code/javadoc/edu/princeton/cs/algs4/ <br>
 Book: https://algs4.cs.princeton.edu/home/
